@@ -1,0 +1,113 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
+p {
+	font-size: 16px;
+}
+.header {
+	background: #854F9B;
+}
+.Logo {
+	font-size: 30px;
+	font-family: 'Pacifico', cursive;;
+	text-decoration: none;
+	font-weight: 900;
+	margin-left: 98px;
+	margin-top: 32px;
+}
+.hover {
+	padding-right: 93px;
+}
+.spisok {
+	display: flex;
+	justify-content: center;
+	padding: 0;
+}
+.iment {
+	list-style: none;
+	padding: 5px;
+}
+.ou {
+	transition-property: all;
+	transition-duration: 0.4s;
+	padding: 6px 8px;
+	border-radius: 7px;
+}
+.ou:hover {
+	padding: 6px 8px;
+	background: #643A79;
+	transition-property: all;
+	transition-duration: 0.4s;
+}
+.menu {
+	font-size: 16px;
+	text-decoration: none;
+	margin-left: 20px;
+}
+.home {
+	justify-content: space-between;
+	display: flex;
+	margin-bottom: 68px;
+}
+.navigatsia {
+	margin-top: 26px;
+	margin-right: 93px;
+}
+.numeber {
+	text-align: center;
+}
+.text {
+	margin: 67px 0 28px 0;
+}
+.btn {
+	padding: 15px 38px;
+	background: #EB7D4A;
+	border: none;
+	color: #fff;
+	margin-bottom: 90px;
+	transition-property: all;
+	transition-duration: 0.4s;
+}
+.btn:hover {
+	background: #FF4949;
+	transition-property: all;
+	transition-duration: 0.4s;
+}
+.blocktwo {
+	background: #18C1A4;
+	text-align: center;
+}
+.texttwo {
+	padding: 90px 0 0 0;
+	margin: 0 0 0 0;
+}
+.polosa {
+	color: #06A48B;
+	size: 2px;
+	margin: 9px auto;
+	width: 35px;
+}
+.opisanie {
+	width: 700px;
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 38px;
+}
+.icons {
+	justify-content: space-between;
+	display: flex;
+	padding: 0 115px 15px 115px;
+}
+.menu:hover {
+	background: #673A7B;
+	transition: pading 2s;
+	padding: 6px 8px;
+	border-radius: 6px;
+}
